@@ -1,0 +1,53 @@
+[
+  {
+    "icon_class": "", 
+    "name": "New Relic Boxes", 
+    "links": [
+      {
+        "url": "https://github.com/bizzabo/new-relic-boxes", 
+        "title": "github"
+      }
+    ], 
+    "tags": [
+      "JavaScript"
+    ], 
+    "icon_url": "", 
+    "forks_count": 13, 
+    "stars_count": 163, 
+    "description": "The ultimate dashboard for monitoring your applications and servers." 
+  }, 
+  {
+    "icon_class": "", 
+    "name": "totango_java_client", 
+    "links": [
+      {
+        "url": "https://github.com/bizzabo/totango_java_client", 
+        "title": "github"
+      }
+    ], 
+    "tags": [
+      "Java"
+    ], 
+    "icon_url": "", 
+    "forks_count": 0, 
+    "stars_count": 2, 
+    "description": "Client to send Totango sdr records "
+  }, 
+  {
+    "icon_class": "", 
+    "name": "mailchimp_java_client", 
+    "links": [
+      {
+        "url": "https://github.com/bizzabo/mailchimp_java_client", 
+        "title": "github"
+      }
+    ], 
+    "tags": [
+      "Java"
+    ], 
+    "icon_url": "", 
+    "forks_count": 0, 
+    "stars_count": 1, 
+    "description": "Java client for Mailchimp V3"
+  } 
+]
