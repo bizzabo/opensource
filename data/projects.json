@@ -1,7 +1,7 @@
 [
   {
     "icon_class": "", 
-    "name": "New Relic Boxes", 
+    "name": "New-Relic-Boxes", 
     "links": [
       {
         "url": "https://github.com/bizzabo/new-relic-boxes", 
@@ -18,7 +18,7 @@
   }, 
   {
     "icon_class": "", 
-    "name": "totango_java_client", 
+    "name": "Totango-JAVA-Client", 
     "links": [
       {
         "url": "https://github.com/bizzabo/totango_java_client", 
@@ -35,7 +35,7 @@
   }, 
   {
     "icon_class": "", 
-    "name": "mailchimp_java_client", 
+    "name": "Mailchimp-JAVA-Client", 
     "links": [
       {
         "url": "https://github.com/bizzabo/mailchimp_java_client", 
